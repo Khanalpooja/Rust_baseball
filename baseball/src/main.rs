@@ -26,7 +26,7 @@ use colour::{dark_magenta, dark_cyan};
 
 // Entry point of the program // main function
 fn main() {
-    dark_magenta!("Prepared by : Pooja Khanal/CS524 A25288740\n");
+    dark_magenta!("Prepared by : Pooja Khanal/Anushka Bhattacharjee\n");
     dark_cyan!(
         "Welcome to the player statistics calculator test program. 
 I am going to read players from an input data file.  

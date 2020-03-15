@@ -1,0 +1,17 @@
+
+BASEBALL TEAM REPORT --- 6 PLAYERS FOUND IN FILE
+OVERALL BATTING AVERAGE is 0.3135585
+
+      PLAYER NAME      :     AVERAGE    SLUGGING     ONBASE%
+ ---------------------------------------------------------------
+           Aaron, Hank :       0.305       0.555     0.319
+          Bench, Jonny :       0.245       0.432     0.277
+              Cobb, Ty :       0.366       0.512    48.784
+           Gwynn, Tony :       0.338       0.459     0.000
+        Jones, Chipper :       0.467       0.857     0.489
+          Smoltz, John :       0.159       0.207     0.250
+
+----- 2 ERROR LINES FOUND IN INPUT DATA ----
+
+line (7) : Line contains invalid numeric data 
+line (8) : Line contains not enough data 

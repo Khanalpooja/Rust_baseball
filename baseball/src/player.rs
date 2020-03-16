@@ -95,7 +95,7 @@ fn check_errors(s: &Vec<&str>, line_count: i32) -> Result<(), String> {
     }
 
     for i in 2..10 {
-        let test = s[i].parse::<f64>();
+        let test = s[i].parse::<i32>();
         match test {
             Err(_) => {
                 return Err(format!(
